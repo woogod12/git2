@@ -19,8 +19,6 @@
 
     ![실행화면](https://user-images.githubusercontent.com/44539773/63320215-f6b2e100-c357-11e9-8ae9-d4bdf6165574.PNG)
 =======
-    ![설치2](./git1/실행화면.png)
->>>>>>> 4d628122a510ff0ea3a1bb867d5beff3fbd5997b
     -> 위 화면이 실행되면 git 설치 완료입니다.
 
 + ### git 환경설정
